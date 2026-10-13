@@ -1,0 +1,52 @@
+{
+  "dashboard": {
+    "descriptionPlaceholder": "描述",
+    "addWidget": "添加小部件",
+    "widgetsLoading": "正在加载您的仪表板..."
+  },
+  "dashboardHeader": {
+    "doneEditing": "编辑完成"
+  },
+  "emptyDashboard": {
+    "title": "该仪表板没有任何小部件",
+    "subtitle": "首先添加一个。",
+    "addWidget": "添加小部件"
+  },
+  "dashboardHeaderMenuItems": {
+    "editMode": "编辑模式"
+  },
+  "createWidgetModal": {
+    "title": "添加新的小部件"
+  },
+  "widget": {
+    "fixConfiguration": "修复配置"
+  },
+  "summaryWidget": {
+    "name": "概括"
+  },
+  "emptyDashboardSidebar": {
+    "title": "未选择任何元素",
+    "message": "单击其中一个元素可查看详细信息。"
+  },
+  "widgetSettings": {
+    "title": "标题",
+    "description": "描述"
+  },
+  "aggregateRowsDataSourceForm": {
+    "data": "数据",
+    "sourceFieldLabel": "来源",
+    "viewFieldLabel": "看法",
+    "notSelected": "未选择",
+    "aggregationFieldLabel": "场地",
+    "aggregationTypeLabel": "概括"
+  },
+  "widgetContext": {
+    "delete": "删除"
+  },
+  "trashType": {
+    "widget": "小部件"
+  },
+  "lastViewedItemType": {
+    "dashboard": "仪表板"
+  }
+}
